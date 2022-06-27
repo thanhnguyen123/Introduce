@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center" style="font-size:40px;">
  Hi there 👋, I'm Thanh. <br/>
   - 🌱 I’m currently learning **Cybersoft Academy**
  </p>
