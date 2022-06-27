@@ -1,7 +1,8 @@
-<p align="center" style="font-size:40px;">
+<p align="center">
  Hi there 👋, I'm Thanh. <br/>
   - 🌱 I’m currently learning **Cybersoft Academy**
  </p>
+ 
 ## 📫 How to reach me:
 <p align="center">
 <!--   <a href="#" target="_blank">
